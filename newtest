@@ -26,7 +26,7 @@ sudo apt-get update
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
-sudo docker run hello-wرو مییکنید و سپس سراغ نصب پکیج نود nulink میروید 
+sudo docker run hello-wرو مییکنید وبعد سراغ نصب پکیج نود nulink میروید 
 
 sudo apt update && sudo apt upgrade -y
 
